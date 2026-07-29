@@ -1,4 +1,8 @@
 # About Atlas
+The Body of Knowledge for Curriculum Engineering
+
+Engineer the Curriculum.
+Empower the Learner.
 
 ## Introduction
 
