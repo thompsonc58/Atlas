@@ -1,5 +1,10 @@
 # About Atlas
+---
+The Body of Knowledge for Curriculum Engineering
 
+Engineer the Curriculum.
+Empower the Learner.
+---
 ## Introduction
 
 The **Atlas Curriculum Engineering Framework (ACEF)** is a comprehensive framework for designing, developing, governing, delivering, assessing, and continuously improving educational systems using the principles and practices of engineering.
