@@ -1,229 +1,201 @@
 # Table of Contents
 
----
+------------------------------------------------------------------------
 
-## Front Matter
+# Front Matter
 
-- Cover
-- Title Page
-- About Atlas
-- Copyright
-- Version Information
-- Document History
-- Foreword
-- Preface
-- Acknowledgements
-- How to Use This Handbook
-- Conventions
-- Document Catalog
-- Glossary
-- Acronyms
+-   Cover
+-   Title Page
+-   About Atlas
+-   Copyright
+-   Version Information
+-   Document History
+-   Foreword
+-   Preface
+-   Acknowledgements
+-   How to Use This Handbook
+-   Conventions
+-   Document Catalog
+-   The Atlas Body of Knowledge (ABOK)
+-   Glossary
+-   Acronyms
 
----
+------------------------------------------------------------------------
 
-# Part I — Foundations
+# Knowledge Area I --- Foundations of Curriculum Engineering
 
-## Chapter 1 — The Case for Curriculum Engineering
+*Establishes the philosophical, historical, and engineering foundations
+of the discipline.*
 
-- The Need for a New Discipline
-- The Evolution of Curriculum Development
-- Challenges Facing Modern Education
-- Why Engineering Principles Matter
-- Introducing Curriculum Engineering
-- Summary
-- Reflection Questions
+## Chapter 1 --- The Case for Curriculum Engineering
 
----
+-   The Evolution of Curriculum
+-   Why Traditional Curriculum Development Is No Longer Enough
+-   Engineering Educational Systems
+-   Introducing Curriculum Engineering
 
-## Chapter 2 — The Atlas Philosophy
+## Chapter 2 --- History of Curriculum Development
 
-- Engineering Better Learning
-- Systems Thinking
-- Learner-Centered Engineering
-- Evidence-Based Improvement
-- Governance and Accountability
-- Continuous Improvement
-- Summary
-- Reflection Questions
+-   Classical Education
+-   Industrial Era Education
+-   Instructional Design
+-   Outcomes-Based Education
+-   Competency-Based Education
+-   Digital Learning
+-   The Emergence of Curriculum Engineering
 
----
+## Chapter 3 --- Atlas Philosophy
 
-# Part II — The Discipline
+-   Engineering Better Learning
+-   Systems Thinking
+-   Educational Excellence
+-   Continuous Improvement
+-   Evidence-Based Decision Making
 
-## Chapter 3 — Defining Curriculum Engineering
+## Chapter 4 --- Principles of Curriculum Engineering
 
-- Definition
-- Scope
-- Goals
-- Core Principles
-- Relationship to Existing Disciplines
-- Engineering Mindset
+-   Systems Thinking
+-   Engineering Lifecycle
+-   Traceability
+-   Quality
+-   Governance
+-   Documentation
 
----
+------------------------------------------------------------------------
 
-## Chapter 4 — Knowledge Engineering
+# Knowledge Area II --- Knowledge Engineering
 
-- Knowledge Domains
-- Knowledge Capture
-- Knowledge Organization
-- Knowledge Transformation
-- Subject Matter Expertise
-- Domain Modeling
+*Focuses on transforming expertise into structured educational
+knowledge.*
 
----
+## Chapter 5 --- Knowledge Domains
 
-## Chapter 5 — Educational Systems Engineering
+## Chapter 6 --- Knowledge Capture
 
-- Educational Systems
-- System Architecture
-- Educational Components
-- Interfaces
-- Dependencies
-- Educational Ecosystems
+## Chapter 7 --- Knowledge Modeling
 
----
+## Chapter 8 --- Knowledge Transformation
 
-# Part III — The Atlas Method
+## Chapter 9 --- Competency Engineering
 
-## Chapter 6 — Atlas Method Overview
+------------------------------------------------------------------------
 
-- Lifecycle Overview
-- Engineering Workflow
-- Inputs and Outputs
-- Educational Artifacts
-- Traceability
+# Knowledge Area III --- Educational Systems Engineering
 
----
+*Treats educational programs as engineered systems.*
 
-## Chapter 7 — Discover
+## Chapter 10 --- Educational Systems
 
-- Problem Definition
-- Stakeholder Analysis
-- Workforce Analysis
-- Competency Discovery
-- Knowledge Domains
+## Chapter 11 --- Educational Architecture
 
----
+## Chapter 12 --- Program Engineering
 
-## Chapter 8 — Engineer
+## Chapter 13 --- Course Engineering
 
-- Curriculum Architecture
-- Program Engineering
-- Course Engineering
-- Learning Outcome Engineering
-- Competency Engineering
+## Chapter 14 --- Module Engineering
 
----
+------------------------------------------------------------------------
 
-## Chapter 9 — Design
+# Knowledge Area IV --- Curriculum Lifecycle Engineering
 
-- Instructional Design
-- Assessment Design
-- Learning Activities
-- Educational Architecture
-- Learning Experience Design
+*Introduces the Atlas Method.*
 
----
+## Chapter 15 --- Atlas Method Overview
 
-## Chapter 10 — Develop
+## Chapter 16 --- Discover
 
-- Course Materials
-- Learning Resources
-- Assessments
-- Rubrics
-- Documentation
+## Chapter 17 --- Engineer
 
----
+## Chapter 18 --- Design
 
-## Chapter 11 — Deliver
+## Chapter 19 --- Develop
 
-- Instruction
-- Learning Platforms
-- Faculty Support
-- Student Experience
-- Learning Analytics
+## Chapter 20 --- Deliver
 
----
+## Chapter 21 --- Improve
 
-## Chapter 12 — Improve
+------------------------------------------------------------------------
 
-- Assessment Analysis
-- Continuous Improvement
-- Governance
-- Revision Planning
-- Lifecycle Management
+# Knowledge Area V --- Educational Quality Engineering
 
----
+*Ensures educational systems are measurable, governable, and
+continuously improved.*
 
-# Part IV — Engineering Models
+## Chapter 22 --- Quality Engineering
 
-## Chapter 13 — Educational Systems Model
+## Chapter 23 --- Assessment Engineering
 
-## Chapter 14 — Curriculum Architecture Model
+## Chapter 24 --- Traceability
 
-## Chapter 15 — Knowledge Transformation Model
+## Chapter 25 --- Governance
 
-## Chapter 16 — Traceability Model
+## Chapter 26 --- Continuous Improvement
 
-## Chapter 17 — Quality Assurance Model
+------------------------------------------------------------------------
 
-## Chapter 18 — Governance Model
+# Knowledge Area VI --- Educational Architecture
 
----
+*Applies engineering principles to educational artifacts.*
 
-# Part V — Applying Atlas
+## Chapter 27 --- Academic Programs
 
-## Chapter 19 — Engineering Academic Programs
+## Chapter 28 --- Courses
 
-## Chapter 20 — Engineering Courses
+## Chapter 29 --- Modules
 
-## Chapter 21 — Engineering Modules
+## Chapter 30 --- Lessons
 
-## Chapter 22 — Engineering Lessons
+## Chapter 31 --- Assessments
 
-## Chapter 23 — Engineering Assessments
+## Chapter 32 --- Rubrics
 
-## Chapter 24 — Engineering Rubrics
+------------------------------------------------------------------------
 
----
+# Knowledge Area VII --- Atlas Framework
 
-# Part VI — The Atlas Framework
+*Describes the implementation framework supporting Curriculum
+Engineering.*
 
-## Chapter 25 — Atlas Standards
+## Chapter 33 --- Atlas Standards
 
-## Chapter 26 — Atlas Specifications
+## Chapter 34 --- Specifications
 
-## Chapter 27 — Atlas Templates
+## Chapter 35 --- Templates
 
-## Chapter 28 — Reference Implementations
+## Chapter 36 --- Reference Implementations
 
-## Chapter 29 — Atlas Studio
+## Chapter 37 --- Atlas Studio
 
----
+------------------------------------------------------------------------
 
-# Part VII — The Future
+# Knowledge Area VIII --- Emerging Topics
 
-## Chapter 30 — The Future of Curriculum Engineering
+*Examines the future evolution of Curriculum Engineering.*
 
-- Emerging Technologies
-- Artificial Intelligence
-- Adaptive Learning
-- Automation
-- Digital Twins for Curriculum
-- Future Research
+## Chapter 38 --- Artificial Intelligence
 
----
+## Chapter 39 --- Learning Analytics
+
+## Chapter 40 --- Digital Twins
+
+## Chapter 41 --- Adaptive Learning
+
+## Chapter 42 --- Future Research
+
+------------------------------------------------------------------------
 
 # Appendices
 
-## Appendix A — Atlas Document Catalog
+## Appendix A --- Atlas Publication Catalog
 
-## Appendix B — Standards Cross-Reference
+## Appendix B --- Atlas Standards Matrix
 
-## Appendix C — Document Templates
+## Appendix C --- Curriculum Engineering Competency Model
 
-## Appendix D — Atlas Publication Index
+## Appendix D --- Atlas Document Templates
 
-## Appendix E — References
+## Appendix E --- Reference Architecture
 
-## Appendix F — Index
+## Appendix F --- Bibliography
+
+## Appendix G --- Index
