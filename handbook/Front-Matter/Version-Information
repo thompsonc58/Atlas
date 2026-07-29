@@ -1,0 +1,90 @@
+# Version Information
+
+| Attribute | Value |
+|------------|-------|
+| **Document Title** | Atlas Handbook |
+| **Subtitle** | Foundations of Curriculum Engineering |
+| **Document Identifier** | ATLAS-HBK-001 |
+| **Edition** | First Edition |
+| **Version** | 1.0.0 |
+| **Status** | Draft |
+| **Publication Date** | TBD |
+| **Framework Version** | ACEF 1.0 |
+| **Language** | English (United States) |
+| **Document Type** | Handbook |
+| **Classification** | Public |
+| **Prepared By** | Atlas Curriculum Engineering Framework |
+| **Approved By** | TBD |
+| **Review Cycle** | Annual or as Required |
+
+---
+
+## Versioning Policy
+
+Atlas publications follow Semantic Versioning (SemVer).
+
+### Major Version
+
+Major versions represent significant changes to the framework that may introduce new concepts, reorganize content, or redefine existing guidance.
+
+Examples:
+
+- 1.0.0
+- 2.0.0
+
+---
+
+### Minor Version
+
+Minor versions introduce new chapters, examples, clarifications, or additional guidance while maintaining compatibility with the current edition.
+
+Examples:
+
+- 1.1.0
+- 1.2.0
+
+---
+
+### Revision Version
+
+Revision releases correct typographical errors, formatting issues, broken references, or minor editorial improvements.
+
+Examples:
+
+- 1.0.1
+- 1.0.2
+
+---
+
+## Publication Status
+
+Atlas documents may have one of the following publication states.
+
+| Status | Description |
+|----------|-------------|
+| Draft | Active development. Subject to change without notice. |
+| Review | Under technical or editorial review. |
+| Candidate Release | Final review prior to publication. |
+| Published | Official release approved for public use. |
+| Archived | Retained for historical reference only. |
+
+---
+
+## Compatibility
+
+Unless otherwise noted, Atlas Standards, Specifications, Templates, and Reference Implementations should reference the handbook version with which they are compatible.
+
+Example:
+
+Compatible with:
+
+- ATLAS-HBK-001 Version 1.0.0
+- ACEF Version 1.0
+
+---
+
+## Revision Authority
+
+The Atlas Governance Model establishes the review, approval, publication, and retirement process for all official Atlas publications.
+
+Changes to this handbook shall be documented in the Document History.
